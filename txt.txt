@@ -1,0 +1,7 @@
+id
+script.js:7 title
+script.js:7 price
+script.js:7 description
+script.js:7 category
+script.js:7 image
+script.js:7 rating
